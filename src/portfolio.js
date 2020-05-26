@@ -84,7 +84,10 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "firebase",
       fontAwesomeClassname: "fas fa-fire"
     },
-    
+    {
+      skillName: "python",
+      fontAwesomeClassname: "fab fa-python"
+    },
     {
       skillName: "docker",
       fontAwesomeClassname: "fab fa-docker"
