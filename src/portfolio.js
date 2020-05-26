@@ -113,9 +113,22 @@ const techStack = {
       progressPercentage: "60%"
     },
     {
+      Stack: "Mongo.Db",
+      progressPercentage: "90%"
+    },
+    {
+      Stack: "React-Native",
+      progressPercentage: "90%"
+    },
+    {
+      Stack: "Express.js",
+      progressPercentage: "90%"
+    },
+    {
       Stack: "Node.js",
-      progressPercentage: "60%"
-    }
+      progressPercentage: "90%"
+    },
+    
   ]
 };
 
