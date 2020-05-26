@@ -198,22 +198,12 @@ const achievementSection = {
   subtitle: "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
 
   achivementsCards: [
+    
     {
-      title: "Google Code-In Finalist",
-      subtitle: "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image:
-        "https://1.bp.blogspot.com/-Ig-v1tDXZt4/XDODmZvWp1I/AAAAAAAAB0A/KtbFdBPFVQw2O15FekkIR0Yg8MUp--rngCLcBGAs/s1600/GCI%2B-%2BVertical%2B-%2BGray%2BText%2B-%2BWhite%2BBG.png",
-      footerLink: [
-        { name: "Certification", url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing" },
-        { name: "Award Letter", url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing" },
-        { name: "Google Code-in Blog", url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html" }
-      ]
-    },
-    {
-      title: "Google Assistant Action",
+      title: "Associate of Science in Information Technology",
       subtitle: "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Google_Assistant_logo.svg/1200px-Google_Assistant_logo.svg.png",
-      footerLink: [{ name: "View Google Assistant Action", url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en" }]
+      image: "https://lh3.googleusercontent.com/tKOKjmIPqqG9xpr3lEAT2cqWPJ9BmZtLiLV0_tSnR7J7LyY8gJgUuD5kZE7fNYWm9RdgeQMzUacdzFjaXjyfS1pp6tVCiZP0diRXGWuDI-chTnFg65DGjV_xor1BEeDdwATJrTNbyMJalGQMLSAqKZvOudL-KO5Ckp2Ifj73WF45NHV8ZaG1mdpf2gieJGYvH7dXRVPIUaLcFdjbEID2Cfh_ZFvq-AUMi33eOUf8dI4_hbzlH8WT3aGuyVZzQnuab2J7yf2sy2lVqHCzE4CjBSeq351rgQm2HqCbALhGx6ln6-zlAY8TuEk1zmRz4V5C-AMm6EfwmlCHJVPbfCOWiK-T4VY37QZuAPrJrebVbdrUU24soG5SW8bTM8FaDqMX1GzvGAnaZ2qUqenG-cVjOKcjNkfJbaO_QJ7KA4qNynsv2KjOlNBSISSQTttSCtRiq8OWTO-Gu853aYDx-3O6WUxFkhSJ4jbGd8V2HqISmVMGPVWs2Dt2EMN2bIc9PgdUoitiY2mnmafpGgthPNeiWQ1vv7t1s9GwLG5sK8ZdGokMHlWXZJA2zjHKn10E4HlT0IOeVs6r4FcqSehuSAZzmF2Qorb8Tf3BVSklCO7AlEZSFmCA5Lug0zNWIQY653i4JAitb0HdYLl5yBvWdsQHixv4ZRHlROfAAqxLLqaQCX0iqs4tUcLO4Qpdx0g=s150-no?authuser=2",
+      footerLink: [{    }]
     },
 
     {
@@ -223,6 +213,17 @@ const achievementSection = {
       footerLink: [
         { name: "Certification", url: "https://drive.google.com/file/d/1HatAATD_xq5SBNpT5dpt1M7IPtQLPRHx/view?usp=sharing" },
         { name: "Final Project", url: "https://pakistan-olx-1.firebaseapp.com/" } //add link to finshed project here
+      ]
+    },
+    {
+      title: "Google Code-In Finalist",
+      subtitle: "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
+      image:
+        "https://1.bp.blogspot.com/-Ig-v1tDXZt4/XDODmZvWp1I/AAAAAAAAB0A/KtbFdBPFVQw2O15FekkIR0Yg8MUp--rngCLcBGAs/s1600/GCI%2B-%2BVertical%2B-%2BGray%2BText%2B-%2BWhite%2BBG.png",
+      footerLink: [
+        { name: "Certification", url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing" },
+        { name: "Award Letter", url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing" },
+        { name: "Google Code-in Blog", url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html" }
       ]
     }
   ]
