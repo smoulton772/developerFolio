@@ -217,12 +217,12 @@ const achievementSection = {
     },
 
     {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu93Bd6LDbxPEOXr-hfLqLYzmHny8c0MJoI3exQP-lwpFLRT7g&s",
+      title: "Full Stack Web & Mobile Developer",
+      subtitle: "Completed Certifcation from NUCAMP Coding Bootcamp for Full Stack Web & Mobile Developer",
+      image: "https://lh3.googleusercontent.com/qUSfXa_vqRWrlM24Y5MSVTShkv4vrNeLY1QuI6K-zCfOhhC5i7e9juJ-cmI0WO1NnKsZ9MDJ6yxG8W4AynvTSXf9Znr5KLqW25Oh5xv2LdAoL7x0CVL8jc6qrqaiBGGhc_E3vfq4-5-AyEtg4y3xIE8Anr0EPsGkM0LS7dSFE50tVvBvAWNNtzPjizhoYkYoxeajisOyuDo61HX5uZRQv6v2MldAYUUvvkskvNuKgdnA-qdcW30xDzjvs8PM73OebF9oBEFT-RiA_b36oKN6Sds8LUYLCoCaL8vaR6CcLmuB7YXfUyQPRNwpr59AF_v1957nJcrNEBeO8jp_C3W2--w-NzFwRt-dQqAX5qtwcO0LTyG-3I0oZHmdgr0nYrhUiugnlAKowTgIe26nkn2eMVkfriSPZTnpgZw2yF-MgfIFyNI6nC8adCQo-GhfJa4zGGjd36i4iT9joF_CtwkN4uNAT2DFXegVcOLt6e2AjB851krw_YMZH-V1Daz_J6JJ4FfOe80ePU1J-IDSobJao3Nf-JGfLTFTGbK9LMEQkjBKae4BDFE9bC0FcQ6TQBlUviEp6omfbYORXbDtmrIluEvQ5-7qxBnSjXREpENdRO9IAYgmLcZeL5fzgWXbRpOTy4xCgaYwlJ2Hd4ys3cEU351J8x26sU7uNSr_s6vuGKZTGZsoifw0GtfwAtU=s100-no?authuser=2",
       footerLink: [
-        { name: "Certification", url: "" },
-        { name: "Final Project", url: "https://pakistan-olx-1.firebaseapp.com/" }
+        { name: "Certification", url: "https://drive.google.com/file/d/1HatAATD_xq5SBNpT5dpt1M7IPtQLPRHx/view?usp=sharing" },
+        { name: "Final Project", url: "https://pakistan-olx-1.firebaseapp.com/" } //add link to finshed project here
       ]
     }
   ]
@@ -265,7 +265,7 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle: "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+92-3243454077",
-  email_address: "saadpasta70h@gmail.com"
+  email_address: "hello@seanmoulton.com"
 };
 
 //Twitter Section
