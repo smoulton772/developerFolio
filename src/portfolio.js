@@ -19,7 +19,7 @@ const socialMediaLinks = {
 
   github: "https://github.com/smoulton772",
   linkedin: "https://www.linkedin.com/in/sean-moulton-73a2733a/",
-  //gmail: "saadpasta70@gmail.com",
+  gmail: "hello@seanmoulton.com",
   //gitlab: "https://gitlab.com/saadpasta",
   //facebook: "https://www.facebook.com/saad.pasta7"
   // Instagram and Twitter are also supported in the links!
