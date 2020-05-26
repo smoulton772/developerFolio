@@ -64,10 +64,10 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "nodejs",
       fontAwesomeClassname: "fab fa-node"
     },
-    {
+    /*{
       skillName: "swift",
       fontAwesomeClassname: "fab fa-swift"
-    },
+    },*/
     {
       skillName: "npm",
       fontAwesomeClassname: "fab fa-npm"
@@ -84,10 +84,10 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "firebase",
       fontAwesomeClassname: "fas fa-fire"
     },
-    {
+    /*{
       skillName: "python",
       fontAwesomeClassname: "fab fa-python"
-    },
+    },*/
     {
       skillName: "docker",
       fontAwesomeClassname: "fab fa-docker"
@@ -136,7 +136,7 @@ const techStack = {
 // Your top 3 work experiences
 
 const workExperiences = {
-  viewExperiences: true, //Set it to true to show workExperiences Section
+  viewExperiences: false, //Set it to true to show workExperiences Section
   experience: [
     {
       role: "Software Engineer",  
@@ -175,6 +175,7 @@ const openSource = {
 // Some Big Projects You have worked with your company
 
 const bigProjects = {
+  
   title: "Big Projects",
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
